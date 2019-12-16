@@ -3,7 +3,7 @@
 ## Installation
 **How to install:**
 
-1. Download the customsoundsrules.json file
+1. Download the https://github.com/FilipKZhong/SimpleSurviv/blob/master/Sound/MusicSound.json file
 3. Download "resource override" from the Chrome Web Store
 4. Once you have gotten the extension, click on the "Resource Override" icon 
 5. On the top right, there is a button labeled "Options"; click on it 

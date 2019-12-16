@@ -8,7 +8,7 @@
 4. Once you have gotten the extension, click on the "Resource Override" icon 
 5. On the top right, there is a button labeled "Options"; click on it 
 6. Click on the "Load Rules" button and select the customsoundrules.json file you should have downloaded
-7. Open Surviv.io* [Read note 1a]
+7. Open Surviv.io
 8. Should be working
 
 ## Credits

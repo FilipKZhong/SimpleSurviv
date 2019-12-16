@@ -1,9 +1,9 @@
-# Surviv.io Custom Sounds Resource Pack
+# Surviv.io SimpleSurviv Resource Pack
 
 ## Installation
 **How to install:**
 
-1. Download the customsoundsrules.json file
+1. Download the <rules>.json file
 3. Download "resource override" from the Chrome Web Store
 4. Once you have gotten the extension, click on the "Resource Override" icon 
 5. On the top right, there is a button labeled "Options"; click on it 
@@ -26,4 +26,5 @@ This script is used through resource override, if the game patches it, deal with
 ## Credits
 
 Enhanced Sounds: https://github.com/FilipKZhong/Surviv.io-Sounds
+
 HUD: https://github.com/FilipKZhong/Surviv.io-Enhanced

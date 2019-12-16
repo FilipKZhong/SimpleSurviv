@@ -15,6 +15,8 @@
 
 AWC, Mosin, SV-98 art: `thegiantegg#5332`
 
+M9 Cursed: `Chicken Tendies#6077`
+
 ## Help and support
 *https://discordapp.com/invite/AHZYHxV*
 

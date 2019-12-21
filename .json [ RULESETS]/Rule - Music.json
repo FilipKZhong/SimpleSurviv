@@ -1,0 +1,1 @@
+{"v":1,"data":[{"id":"d1","matchUrl":"*surviv.io*","rules":[{"type":"normalOverride","match":"http*://surviv.io/audio/ambient/piano_music_01.mp3","replace":"https://raw.githubusercontent.com/FilipKZhong/Surviv.io-Sounds/master/Music%20%26%20SFX/SaloonClassic2.mp3","on":true}],"on":true}]}
